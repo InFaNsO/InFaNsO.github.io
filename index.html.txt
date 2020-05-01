@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>First commit for my GitHub Pages website(& portfolio)</p>
+</body>
+</html>
